@@ -4,4 +4,4 @@
 
 | Type  | Completion |
 | ------------- |:-------------:|
-| Challenge days      | 97/100     |
+| Challenge days      | 98/100     |
